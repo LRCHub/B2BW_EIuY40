@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "You Were Loved",
+  "base_artist": "Gryffin & OneRepublic",
+  "createdAt": "2026-03-23T15:31:21.585557Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Were Loved",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/01_You_Were_Loved_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You'll Know You Were Loved",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/02_You'll_Know_You_Were_Loved_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Memorial (You Were Loved)",
+      "artist": "Ad Brown feat. Kerry Leva",
+      "has_synced": false,
+      "path": "select/03_Memorial_(You_Were_Loved)_Ad_Brown_feat._Kerry_Leva.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Were Loved (with OneRepublic) - Acoustic",
+      "artist": "Gryffin feat. OneRepublic",
+      "has_synced": true,
+      "path": "select/04_You_Were_Loved_(with_OneRepublic)_-_Acoustic_Gryffin_feat._OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Were Loved",
+      "artist": "Gryffin, OneRepublic",
+      "has_synced": true,
+      "path": "select/05_You_Were_Loved_Gryffin,_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Were Loved (acoustic)",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/06_You_Were_Loved_(acoustic)_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Know That You Were Loved",
+      "artist": "Tim Bowness",
+      "has_synced": true,
+      "path": "select/07_Know_That_You_Were_Loved_Tim_Bowness.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Were Loved (with OneRepublic)",
+      "artist": "Gryffin feat. OneRepublic",
+      "has_synced": true,
+      "path": "select/08_You_Were_Loved_(with_OneRepublic)_Gryffin_feat._OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Were Loved (with OneRepublic)",
+      "artist": "Gryffin/OneRepublic",
+      "has_synced": true,
+      "path": "select/09_You_Were_Loved_(with_OneRepublic)_Gryffin_OneRepublic.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Were Loved",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/10_You_Were_Loved_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Were Loved",
+      "artist": "OneRepublic/Gryffin",
+      "has_synced": true,
+      "path": "select/11_You_Were_Loved_OneRepublic_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Were Loved",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/12_You_Were_Loved_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You Were Loved (with OneRepublic)",
+      "artist": "Gryffin",
+      "has_synced": true,
+      "path": "select/13_You_Were_Loved_(with_OneRepublic)_Gryffin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You Were Loved (Whitney Houston)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/14_You_Were_Loved_(Whitney_Houston)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Were Loved",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/15_You_Were_Loved_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Were Loved",
+      "artist": "Gryffin & OneRepublic",
+      "has_synced": true,
+      "path": "select/16_You_Were_Loved_Gryffin_&_OneRepublic.lrc"
+    }
+  ]
+}
